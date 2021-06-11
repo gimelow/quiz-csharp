@@ -1,0 +1,3 @@
+adaptar o caminho dos executavéis de acordo com a máquina em que está rodando 
+
+(D:/, E:/ e diretórios das pastas)
